@@ -11,5 +11,5 @@ The database consists of 89 colour fundus images of which 84 contain at least mi
 AlexNet is a convolutional neural network (CNN) architecture created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in collaboration. AlexNet won the 2012 ImageNet Large Scale Visual Recognition Challenge. AlexNet is an 8 layer deep neural network. AlexNets used some new techniques, RelU activation function and Dropout layers.
 
 
-{https://blog.devgenius.io/alexnet-the-net-that-surpassed-cnns-5d551ba1b901} [AlexNet]
+ [AlexNet](https://blog.devgenius.io/alexnet-the-net-that-surpassed-cnns-5d551ba1b901).
 
