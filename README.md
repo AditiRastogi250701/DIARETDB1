@@ -1,15 +1,8 @@
-AlexNet implementation on DIARETDB1 database
+## Diabetic Retinopathy
+
+Diabetic Retinopathy (DR), which causes lesions on the retina and reduces vision, is a common complication of diabetes mellitus. If it is not detected in time, blindness could follow. Unfortunately, there is no known treatment for DR; it can only be prevented. The risk of vision loss can be significantly reduced with early detection and treatment of DR. The manual diagnosis of DR retina fundus images by ophthalmologists is time-, effort-, and cost-consuming as well as error-prone, in contrast to computer-aided diagnosis technologies. Recently, deep learning has become one of the most well-liked techniques for enhancing performance, notably in the classification and interpretation of medical pictures. Convolutional neural networks are more frequently used in the analysis of medical pictures as a deep learning technique, and they are extremely effective. For this paper, we have used an ensemble method consisting of advanced deep learning methods like - AlexNet, EfficientNets, ResNet50, VGG16, MobileNet, InceptionNetv3, to achieve better results with better precision.
 
 
 ## DIARETDB1
 
 The database consists of 89 colour fundus images of which 84 contain at least mild non-proliferative signs (Microaneurysms) of the diabetic retinopathy, and 5 are considered as normal which do not contain any signs of the diabetic retinopathy according to all experts who participated in the evaluation. Images were captured using the same 50 degree field-of-view digital fundus camera with varying imaging settings. The data correspond to a good (not necessarily typical) practical situation, where the images are comparable, and can be used to evaluate the general performance of diagnostic methods. This data set is referred to as "calibration level 1 fundus images".
-
-
-## AlexNet
-
-AlexNet is a convolutional neural network (CNN) architecture created by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in collaboration. AlexNet won the 2012 ImageNet Large Scale Visual Recognition Challenge. AlexNet is an 8 layer deep neural network. AlexNets used some new techniques, RelU activation function and Dropout layers.
-
-
- [AlexNet](https://blog.devgenius.io/alexnet-the-net-that-surpassed-cnns-5d551ba1b901).
-
